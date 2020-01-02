@@ -1,5 +1,5 @@
 import socket 
-import sys
+import sys 
 
 def is_port_open(host, port): #return boolean
 	try:
